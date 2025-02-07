@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  background-color: #282c34;
+  color: white;
+  padding: 12px;
+}
+
+#hero {
+  display: flex;
+}
+
+#results .results-list .result {
+  border: 2px black solid;
+}
+
+.grid-box {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  gap: 8px;
+}
+
+.grid-box .box {
+  background-color: aquamarine;
+}
