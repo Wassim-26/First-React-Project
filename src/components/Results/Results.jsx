@@ -1,3 +1,4 @@
+import "./Results.css";
 import ResultItem from "./ResultItem";
 function Results() {
   return (

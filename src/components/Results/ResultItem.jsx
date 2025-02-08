@@ -1,3 +1,4 @@
+import "./Results.css";
 function ResultItem() {
   return (
     <li className="result">

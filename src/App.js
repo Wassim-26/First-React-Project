@@ -1,9 +1,8 @@
 import "./App.css";
-import Footer from "./Footer";
-import Grid from "./Grid";
-import Hero from "./Hero";
-import Results from "./Results";
-
+import Hero from "./components/Hero/Hero";
+import Results from "./components/Results/Results";
+import Grid from "./components/Grid/Grid";
+import Footer from "./components/Footer/Footer";
 function App() {
   return (
     <div className="App">

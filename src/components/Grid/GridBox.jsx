@@ -1,3 +1,4 @@
+import "./Grid.css";
 function GridBox() {
   return (
     <div className="box">
